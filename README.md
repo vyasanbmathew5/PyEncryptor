@@ -15,7 +15,7 @@ cd PyEncryptor
 python encode.py
 ```
 
-<br><a href="#"><img src="https://github.com/vyasanbmathew5/enc.png"></a><br>
+<br><a href="#"><img src="https://github.com/vyasanbmathew5/img/enc.png"></a><br>
 
 
 
